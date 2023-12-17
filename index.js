@@ -8,4 +8,4 @@ app.get('/',(req,res)=>{
 })
 app.set('view engine','hbs')
 
-app.listen(3030,()=>{ console.log('Server Running.....'); })
+app.listen(3030,()=>{ console.log('Server Running......'); })
